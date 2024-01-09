@@ -33,3 +33,6 @@ Project Learning Outcomes:
 - Proficiency in visualization tools (Plotly Express, Matplotlib, Seaborn).
 - Familiarity with machine learning libraries (Scikit-Learn).
 
+## Conclusion
+In the culmination of the restaurant analysis project, we have embarked on a data-driven journey to unravel key insights into the Restaurant data. Through a series of exploratory analyses, we've dived into various facets of the dataset, shedding light on geographical patterns, cuisine diversity, customer sentiments, and the intricate relationship between ratings and services.
+
