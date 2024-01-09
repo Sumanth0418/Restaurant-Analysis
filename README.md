@@ -1,8 +1,3 @@
-# Restaurant-Analysis
-Certainly! A GitHub README is a great way to introduce and document your project. Below is a template for a README file for your restaurant analysis project:
-
----
-
 # Restaurant Analysis Project
 
 ## Overview
