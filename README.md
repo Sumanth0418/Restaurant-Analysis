@@ -20,15 +20,16 @@ Welcome to the Restaurant Analysis project! This project explores a comprehensiv
 
 
 Project Learning Outcomes:
-Technical Skills:
-Data cleaning and preprocessing.
-Geographical mapping and spatial data analysis.
-Text processing and sentiment analysis.
-Correlation analysis and statistical testing.
-Machine learning techniques for clustering.
 
-Tools and Libraries:
-Experience with data analysis libraries (Pandas, NumPy).
-Proficiency in visualization tools (Plotly Express, Matplotlib, Seaborn).
-Familiarity with machine learning libraries (Scikit-Learn).
+## Technical Skills:
+- Data cleaning and preprocessing.
+- Geographical mapping and spatial data analysis.
+- Text processing and sentiment analysis.
+- Correlation analysis and statistical testing.
+- Machine learning techniques for clustering.
+
+## Tools and Libraries:
+- Experience with data analysis libraries (Pandas, NumPy).
+- Proficiency in visualization tools (Plotly Express, Matplotlib, Seaborn).
+- Familiarity with machine learning libraries (Scikit-Learn).
 
